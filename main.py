@@ -1,3 +1,5 @@
+# This is the main file that contains the gameplay. other files do not contain
+# the gameplay, but contain global variables, classes, functions, and assets
 from ChessBoard import ChessBoard
 from Global import *
 
